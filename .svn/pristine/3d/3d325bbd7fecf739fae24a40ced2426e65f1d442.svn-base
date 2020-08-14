@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_nearly"
+        android:icon="@drawable/ic_nearly"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_zhibo"
+        android:icon="@drawable/ic_zhibo"
+        android:title="@string/title_zhibo" />
+
+    <item
+        android:id="@+id/navigation_hot_buy"
+        android:icon="@drawable/p_bug"
+        android:title="@string/p_buy" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_notification"
+        android:title="@string/title_notifications" />
+</menu>

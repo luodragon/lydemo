@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<com.lieying.lydemo3.customview.FullWindowVideoView
+    android:id="@+id/video_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+
+    <ImageView
+        android:id="@+id/img_thumb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:focusable="false"
+        android:scaleType="centerCrop"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/img_play"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@mipmap/ic_live_profile_paly"
+        android:clickable="true"
+        android:focusable="true"
+        android:tint="#f2f2f2"
+        android:alpha="0"
+        android:layout_centerInParent="true"
+        />
+
+    <TextView
+        android:id="@+id/tv_label_good"
+        android:layout_width="66dp"
+        android:layout_height="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="77dp"
+        android:layout_marginRight="77dp"
+        android:layout_marginBottom="464dp"
+        android:background="@drawable/text_good_label"
+        android:drawableLeft="@drawable/ic_hb"
+        android:gravity="center"
+        android:text="@string/status_good"
+        android:visibility="gone"
+        android:textColor="@color/colorRed"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:id="@+id/iv_wechat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginBottom="459dp"
+        android:visibility="gone"
+        android:src="@drawable/ic_we_chat" />
+
+    <TextView
+        android:id="@+id/tv_wechat_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="43dp"
+        android:layout_marginRight="43dp"
+        android:layout_marginBottom="435dp"
+        android:text="349"
+        android:visibility="gone"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/iv_redheart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="43dp"
+        android:layout_marginRight="43dp"
+        android:layout_marginBottom="365dp"
+        android:visibility="gone"
+        android:src="@drawable/ic_redheart" />
+
+    <TextView
+        android:id="@+id/tv_redheart_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="41dp"
+        android:layout_marginRight="41dp"
+        android:layout_marginBottom="343dp"
+        android:visibility="gone"
+        android:text="349"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/iv_chat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginBottom="271dp"
+        android:visibility="gone"
+        android:src="@drawable/ic_chat" />
+
+    <TextView
+        android:id="@+id/tv_chat_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="41dp"
+        android:layout_marginRight="41dp"
+        android:layout_marginBottom="144dp"
+        android:text="349"
+        android:textColor="@color/colorWhite"
+        android:visibility="gone"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/iv_shopcart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="43dp"
+        android:layout_marginRight="43dp"
+        android:layout_marginBottom="168dp"
+        android:visibility="gone"
+        android:src="@drawable/ic_shopcart" />
+
+    <TextView
+        android:id="@+id/tv_shopcart_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="44dp"
+        android:layout_marginRight="44dp"
+        android:layout_marginBottom="247dp"
+        android:text="349"
+        android:visibility="gone"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/iv_headpic"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="253dp"
+        android:visibility="gone"
+        android:src="@mipmap/zhubo" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="212dp"
+        android:layout_marginRight="212dp"
+        android:layout_marginBottom="283dp"
+        android:visibility="gone"
+        android:text="/@可爱的小姐姐" />
+
+    <TextView
+        android:id="@+id/tv_add_focus"
+        android:layout_width="50dp"
+        android:layout_height="18dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="161dp"
+        android:layout_marginRight="161dp"
+        android:layout_marginBottom="281dp"
+        android:visibility="gone"
+        android:background="@drawable/text_add_focus"
+        android:text="+关注" />
+
+    <TextView
+        android:id="@+id/tv_desc"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="161dp"
+        android:text="  我去过3次云南，对于云南的每一个景点都
+很熟悉，像丽江、香格里拉、泸沽湖等."
+        android:visibility="gone"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp" />
+</RelativeLayout>

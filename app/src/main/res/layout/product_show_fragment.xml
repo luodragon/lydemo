@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.productshow.ProductShowFragment">
+
+    <ImageView
+        android:id="@+id/iv_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/image7"
+        />
+<LinearLayout
+    android:id="@+id/ll_bottom"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_gravity="bottom"
+    android:background="@color/colorGray"
+    android:orientation="horizontal"
+    >
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:layout_weight="1"
+    android:background="@color/colorRed"
+    >
+</LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/text_single_buy"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp"
+        android:background="@color/colorLightRed"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/btn_buy_immediate"
+        android:textColor="@color/colorWhite"
+        android:background="@color/colorRed"
+        android:textSize="16sp"
+        android:gravity="center"
+        />
+</LinearLayout>
+</FrameLayout>

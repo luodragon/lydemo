@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/icon_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_nearly"
+        android:icon="@mipmap/icon_nearly"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_zhibo"
+        android:icon="@mipmap/icon_zb"
+        android:title="@string/title_zhibo" />
+
+    <item
+        android:id="@+id/navigation_hot_buy"
+        android:icon="@mipmap/icon_hotbuy"
+        android:title="@string/p_buy" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@mipmap/icon_notifications"
+        android:title="@string/title_notifications" />
+</menu>

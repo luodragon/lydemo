@@ -1,0 +1,181 @@
+package com.lieying.lydemo3;
+
+import android.Manifest;
+import android.app.ActionBar;
+import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.database.Cursor;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
+import android.net.Uri;
+import android.os.Bundle;
+import android.provider.MediaStore;
+import android.speech.tts.TextToSpeech;
+import android.util.Log;
+import android.view.Display;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.Window;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import android.widget.Toast;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.google.android.material.bottomsheet.BottomSheetBehavior;
+import com.google.android.material.bottomsheet.BottomSheetDialog;
+import com.lieying.lydemo3.net.ApiService;
+import com.lieying.lydemo3.net.ConfigRepository;
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.ActivityCompat;
+import androidx.core.content.ContextCompat;
+import androidx.navigation.NavController;
+import androidx.navigation.Navigation;
+import androidx.navigation.ui.AppBarConfiguration;
+import androidx.navigation.ui.NavigationUI;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import okhttp3.ResponseBody;
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
+import retrofit2.Retrofit;
+
+public class MainActivity extends AppCompatActivity {
+    BottomSheetDialog bottomSheetDialog;
+    BottomSheetBehavior mBehavior;
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        getSupportActionBar().hide();
+        BottomNavigationView navView = findViewById(R.id.nav_view);
+        // Passing each menu ID as a set of Ids because each
+        // menu should be considered as top level destinations.
+        AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(
+                R.id.navigation_home, R.id.navigation_nearly, R.id.navigation_zhibo,R.id.navigation_hot_buy,R.id.navigation_notifications)
+                .build();
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+        NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
+        NavigationUI.setupWithNavController(navView, navController);
+        navView.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+
+    }
+    private void showBottomSheetDialog() {
+        View view = View.inflate(MainActivity.this,R.layout.dialog_bottomsheet,null);
+        bottomSheetDialog = new BottomSheetDialog(MainActivity.this,R.style.AppBottomSheetDialogTheme);
+        bottomSheetDialog.setContentView(view);
+        mBehavior = BottomSheetBehavior.from((View)view.getParent());
+        mBehavior.setPeekHeight(getPeekHeight());
+        bottomSheetDialog.show();
+        TextView tv_close = view.findViewById(R.id.tv_close);
+        LinearLayout ll_video = view.findViewById(R.id.ll_xiaoshipin);
+        tv_close.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                bottomSheetDialog.dismiss();
+            }
+        });
+        ll_video.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                chooseVideo();
+            }
+        });
+    }
+    /**
+     * 弹窗高度，默认为屏幕高度的四分之三
+     * 子类可重写该方法返回peekHeight
+     *
+     * @return height
+     */
+    protected int getPeekHeight() {
+        Display display = getWindowManager().getDefaultDisplay();
+        int peekHeight = display.getHeight()*2/3;
+        //设置弹窗高度为屏幕高度的3/4
+        return peekHeight;
+    }
+
+    private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener = new BottomNavigationView.OnNavigationItemSelectedListener() {
+        @Override
+        public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+            switch (item.getItemId()){
+                case R.id.navigation_notifications:
+                    return true;
+                case R.id.navigation_zhibo:
+                    showBottomSheetDialog();
+                    return true;
+                case R.id.navigation_hot_buy:
+                    return true;
+                case R.id.navigation_nearly:
+                    return true;
+                case R.id.navigation_home:
+                    return true;
+            }
+            return false;
+        }
+    };
+
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
+
+    //        ApiService apiService = new Retrofit.Builder().baseUrl("http://192.168.16.38:8095/").build().create(ApiService.class);
+//        apiService.configObject().enqueue(new Callback<ResponseBody>() {
+//            @Override
+//            public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
+//                try {
+//                    Log.e("reponse",response.body().string());
+//                    Toast.makeText(MainActivity.this,response.body().string(),Toast.LENGTH_LONG).show();
+//                } catch (IOException e) {
+//                    e.printStackTrace();
+//                }
+//            }
+//
+//            @Override
+//            public void onFailure(Call<ResponseBody> call, Throwable t) {
+//                    Toast.makeText(MainActivity.this,t.toString(),Toast.LENGTH_LONG).show();
+//            }
+//        });
+    private void chooseVideo() {
+        Intent intent = new Intent();
+        intent.setType("video/*");
+        intent.setAction(Intent.ACTION_GET_CONTENT);
+        startActivityForResult(intent, 1);
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        // 选取图片的返回值
+            //
+            if (resultCode==1 && resultCode == RESULT_OK && null!= data) {
+                Uri selectedVideo = data.getData();
+                String[] filePathColumn = {MediaStore.Video.Media.DATA};
+                Cursor cursor = getContentResolver().query(selectedVideo, filePathColumn, null,
+                        null, null);
+                cursor.moveToFirst();
+                int columnIndex = cursor.getColumnIndex(filePathColumn[0]);
+                String v_path = cursor.getString(columnIndex); // 图片文件路径
+//                String v_size = cursor.getString(2); // 图片大小
+//                String v_name = cursor.getString(3); // 图片文件名
+                Log.e("path", "v_path=" + v_path);
+//                Log.e("size", "v_size=" + v_size);
+//                Log.e("name", "v_name=" + v_name);
+                cursor.close();
+
+        }
+        super.onActivityResult(requestCode, resultCode, data);
+    }
+    }

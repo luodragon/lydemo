@@ -1,0 +1,7 @@
+package com.lieying.lydemo3.ui.hotbuy;
+
+import androidx.lifecycle.ViewModel;
+
+public class HotBuyViewModel extends ViewModel {
+    // TODO: Implement the ViewModel
+}

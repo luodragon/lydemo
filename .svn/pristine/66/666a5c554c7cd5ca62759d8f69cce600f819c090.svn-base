@@ -1,0 +1,1742 @@
+[
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxxhdpi\\cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_zhibo.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_zhibo.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_zhibo.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\zhibo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_select.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\nav_select.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_buy_immediate.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_buy_immediate.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_about.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_16.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_16.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_zhanwei.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\zhanwei.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_label_zhibo.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\label_zhibo.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_topay.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_topay.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_good_label.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\text_good_label.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_my_order.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_my_order.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notification.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notification.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_my_focus.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_my_focus.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_home.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_redheart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_redheart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_toright.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_toright.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_banner.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-mdpi\\banner.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_6.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_6.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_get_shop.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_get_shop.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_my_cash.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_my_cash.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_toreceive.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_toreceive.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shopcart.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopcart.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_free.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_free.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_tosend.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_tosend.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dilalog_radius_corner.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\dilalog_radius_corner.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_toreceive.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_toreceive.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_zhibo.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_zhibo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_same_city_fragment.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\same_city_fragment.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_free.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_free.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_my_collect.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_my_collect.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_address.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_address.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_focus_fragment.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\focus_fragment.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_address.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_address.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_service.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_service.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_black_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_black_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_my_focus.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_my_focus.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_topay.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_topay.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_real_name.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_real_name.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dou.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dou.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_get_shop.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_get_shop.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_address.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_address.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_1.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_1.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_8.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_8.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user_level.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user_level.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_service.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_service.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_free.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_free.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_my_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_my_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_service.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_service.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_16.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_16.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_service.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_service.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_douyin.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_douyin.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_welcome.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\content_welcome.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_3.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_3.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_2.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_2.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_real_name.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_real_name.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toevaluate.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_toevaluate.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_douyin.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_douyin.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_we_chat.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_we_chat.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_toright.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_toright.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user_level.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user_level.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notification.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_toright.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_toright.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hotbuy.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hotbuy.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_city_select_popup_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_city_select_popup_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_toevaluate.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_toevaluate.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopcart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shopcart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first2.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_free.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_free.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_8.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_8.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_get_shop_tax.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_get_shop_tax.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toright.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_toright.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_about.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_about.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_we_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_we_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_16.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_16.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_p_bug.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\p_bug.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_p_bug.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\p_bug.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_get_shop_tax.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_get_shop_tax.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_rv_hotbuy_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\rv_hotbuy_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_ping.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\icon_ping.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_image10.jpg.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\image10.jpg"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_hotbuy_vip.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_hotbuy_vip.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_my_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_my_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_image9.jpg.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\image9.jpg"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hotbuy.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hotbuy.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second2.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_toservice.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_toservice.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_my_collect.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_my_collect.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_service.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_service.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_hotbuy.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_hotbuy.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_toevaluate.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_toevaluate.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_toreceive.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_toreceive.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_video_manage.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_video_manage.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_my_hotbuy.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_my_hotbuy.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_my_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_my_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_my_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_my_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second3.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_second3.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxxhdpi\\vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_redheart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_redheart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_topay.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_topay.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dou.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dou.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_focus_rv_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_focus_rv_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_bean.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxxhdpi\\bean.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_redheart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_redheart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_p_bug.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\p_bug.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_hotbuy_free.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_hotbuy_free.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shopcart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shopcart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_zhibo.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_zhibo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_tosend.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_tosend.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_zhibo_num.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\text_zhibo_num.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_image8.jpg.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\image8.jpg"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_register_bg.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_register_bg.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login_bg.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_login_bg.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_redheart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_redheart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_image11.jpg.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\image11.jpg"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_p_bug.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\p_bug.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_toreceive.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_toreceive.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_toservice.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_toservice.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_16.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_16.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_tosend.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_tosend.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_get_shop.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_get_shop.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_black_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_black_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_my_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_my_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_real_name.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_real_name.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hotbuy.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hotbuy.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_notifications.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_notifications.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_my_collect.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_my_collect.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_topay.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_topay.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user_level.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user_level.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_free.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_free.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_video_manage.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_video_manage.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_p_bug.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\p_bug.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hotbuy.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hotbuy.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hb.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hb.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_douyin.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_douyin.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_lieying.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_lieying.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_16.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_16.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_zhubo.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-mdpi\\zhubo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_we_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_we_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toservice.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_toservice.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_redheart.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_redheart.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_douyin.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_douyin.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_image7.jpg.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\image7.jpg"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_topay.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_topay.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_black_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_black_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_my_focus.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_my_focus.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_tosend.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_tosend.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv_upgrade.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\tv_upgrade.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_zhibo.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_zhibo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_samecity_rv_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_samecity_rv_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_black_nearly.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_black_nearly.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_free.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_free.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_nearly.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_nearly.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toreceive.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_toreceive.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_5.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_5.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_hotbuy_back.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_hotbuy_back.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_live_profile_paly.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_live_profile_paly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_zhibo.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_zhibo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_my_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_my_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user_level.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user_level.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hb.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hb.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dou.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dou.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_black_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_black_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_my_collect.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_my_collect.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_toevaluate.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_toevaluate.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_get_shop_tax.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_get_shop_tax.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_hb.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hb.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first3.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_first3.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_3.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_3.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_toservice.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_toservice.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_success.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_register_success.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_black_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_black_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dou.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dou.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_douyin.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_douyin.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_register_success.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\content_register_success.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_toservice.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_toservice.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_video_manage.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_video_manage.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_toright.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_toright.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_free.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_free.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_get_shop_tax.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_get_shop_tax.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_city_select.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_city_select.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_my_focus.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_my_focus.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hb.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hb.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_toreceive.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_toreceive.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_video_manage.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_video_manage.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_zb.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_zb.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_share.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_share.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_redheart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_redheart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_my_collect.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_my_collect.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notification.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login_register.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_login_register.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_we_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_we_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_btn_white_red.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_btn_white_red.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_gv_hotbuy_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\gv_hotbuy_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_my_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_my_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_get_shop.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_get_shop.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hb.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hb.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_hotbuy_beans.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_hotbuy_beans.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_toright.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_toright.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_2.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_2.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_get_shop_tax.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_get_shop_tax.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_gv_zb_select_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\gv_zb_select_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_personal.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\content_personal.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_nearly_fragment.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\nearly_fragment.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shopcart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shopcart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_level.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user_level.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_toreceive.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_toreceive.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_picture.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\picture.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_16.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_16.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_tosend.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_tosend.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_real_name.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_real_name.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_service.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_service.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_7.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_7.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gv_img.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-mdpi\\gv_img.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_recommend_fragment.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\recommend_fragment.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_setting.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_setting.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_level.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_user_level.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_my_focus.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_my_focus.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_my_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_my_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_16.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_16.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_my_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_my_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_get_shop.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_get_shop.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_we_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_we_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_redheart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_redheart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_free.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxxhdpi\\free.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_address.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_address.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_1.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_1.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_toright.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_toright.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_douyin.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_douyin.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_7.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_7.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_p_bug.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\p_bug.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_address.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_address.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_real_name.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_real_name.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login_right.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_login_right.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_login.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\content_login.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_we_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_we_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_register.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\content_register.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_6.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_6.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_topay.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_topay.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_get_shop.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_get_shop.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dou.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dou.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_black_nearly.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_black_nearly.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_banner1.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\banner1.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_toservice.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_toservice.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_get_shop_tax.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_get_shop_tax.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_my_focus.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_my_focus.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_get_shop_tax.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_get_shop_tax.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hotbuy.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hotbuy.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hb.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hb.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_banner.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\banner.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_xiaoshipin.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\xiaoshipin.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_hot_buy_fragment.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\hot_buy_fragment.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p_bug.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\p_bug.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_banner2.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\banner2.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_bottomsheet.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\dialog_bottomsheet.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user_level.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user_level.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_toevaluate.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_toevaluate.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\color_color_nav_select.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\color\\color_nav_select.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_toevaluate.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_toevaluate.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_hotbuy_cash.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\btn_hotbuy_cash.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_real_name.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_real_name.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_my_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_my_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_4.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_4.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_video_manage.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_video_manage.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_my_focus.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_my_focus.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_hotbuy.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hotbuy.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_toevaluate.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_toevaluate.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_video_manage.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_video_manage.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_douyin.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_douyin.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_chat_dialog.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_chat_dialog.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_zhibo.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_zhibo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shopcart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shopcart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dou.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dou.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_address.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_address.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_my_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_my_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hb.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hb.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_get_shop.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_get_shop.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chat.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chat.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_zhibo.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_zhibo.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_chat_dialog_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\layout_chat_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_real_name.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_real_name.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_my_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_my_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_my_vip.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_my_vip.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_user_level.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\content_user_level.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_toservice.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_toservice.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_video_manage.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_video_manage.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_video_5.png.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\mipmap-xxhdpi\\img_video_5.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_tosend.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_tosend.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopcart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shopcart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_address.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_address.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_we_chat.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_we_chat.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_vip.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_vip.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_index_fragment.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\index_fragment.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_topay.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_topay.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_my_collect.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_my_collect.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_personal.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cash.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cash.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_service.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_service.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\raw_video_4.mp4.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\raw\\video_4.mp4"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_gv_home_item.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\gv_home_item.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dou.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dou.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sv_search.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\sv_search.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_vip.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_vip.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_add_focus.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\drawable\\text_add_focus.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_toolbar_left.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\menu\\menu_toolbar_left.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_my_collect.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_my_collect.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_tosend.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_tosend.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notification.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_details.xml.flat",
+        "source": "E:\\LyDemo3\\app\\src\\main\\res\\layout\\content_details.xml"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user_level.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user_level.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cash.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cash.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shopcart.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shopcart.png"
+    },
+    {
+        "merged": "E:\\LyDemo3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hotbuy.png.flat",
+        "source": "E:\\LyDemo3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hotbuy.png"
+    }
+]

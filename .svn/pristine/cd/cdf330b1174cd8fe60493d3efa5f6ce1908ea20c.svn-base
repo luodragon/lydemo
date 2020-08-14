@@ -1,0 +1,22 @@
+package com.lieying.lydemo3.net;
+
+import androidx.annotation.NonNull;
+
+import retrofit2.Retrofit;
+
+public class ConfigRepository {
+    private static  ConfigRepository INSTANCE = null;
+     public static  ApiService apiService = new Retrofit.Builder().baseUrl("http://192.168.16.188:90/").build().create(ApiService.class);
+
+    private  ConfigRepository(@NonNull ApiService apiService){
+        this.apiService = apiService;
+    }
+
+    public static ConfigRepository getInstance(ApiService apiService){
+        if(INSTANCE==null){
+            INSTANCE  = new ConfigRepository(apiService);
+        }
+        return INSTANCE;
+    }
+
+}

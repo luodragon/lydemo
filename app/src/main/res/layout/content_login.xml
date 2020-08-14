@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".LoginActivity"
+    tools:showIn="@layout/activity_login">
+
+    <include
+        layout="@layout/layout_btn_white_red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.277" />
+
+    <com.lieying.lydemo3.customview.FontIconView
+        android:id="@+id/tv_qq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_qq"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.357"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.38" />
+
+    <com.lieying.lydemo3.customview.FontIconView
+        android:id="@+id/tv_wechat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:text="@string/icon_wechat"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.546"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.38" />
+
+    <com.lieying.lydemo3.customview.FontIconView
+        android:id="@+id/tv_weibo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_weibo"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.697"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.38" />
+
+    <EditText
+        android:id="@+id/et_user_input"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="65dp"
+        android:layout_marginRight="65dp"
+        android:hint="@string/text_input_mobile_hint"
+        android:textColorHint="@color/colorGray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.513" />
+
+    <EditText
+        android:id="@+id/et_pwd_input"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="65dp"
+        android:layout_marginRight="65dp"
+        android:hint="@string/text_input_password_hint"
+        android:inputType="textPassword"
+        android:textColorHint="@color/colorGray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.611" />
+
+
+    <com.lieying.lydemo3.customview.FontIconView
+        android:id="@+id/tv_hide_pwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_close_password"
+        android:textSize="36sp"
+        android:textColor="@color/colorGray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.826"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.597" />
+
+    <Button
+        android:id="@+id/btn_login_down"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:background="@drawable/btn_login_register"
+        android:text="@string/text_login"
+        android:textColor="@color/colorWhite"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.519"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.782" />
+
+    <TextView
+        android:id="@+id/tv_forget_pwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_forget_password"
+        android:textColor="@color/colorGray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.521"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.833" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

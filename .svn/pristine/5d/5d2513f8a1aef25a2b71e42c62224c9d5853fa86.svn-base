@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp">
+
+    <ImageView
+        android:id="@+id/iv_header_pic"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="356dp"
+        android:layout_marginRight="356dp"
+        android:src="@mipmap/zhubo" />
+
+    <TextView
+        android:id="@+id/tv_username"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="170dp"
+        android:layout_marginRight="170dp"
+        android:layout_marginBottom="28dp"
+        android:text="这是测试的用户名而已啦" />
+
+    <TextView
+        android:id="@+id/tv_chat_message"
+        android:layout_width="237dp"
+        android:layout_height="40dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="113dp"
+        android:layout_marginRight="113dp"
+        android:layout_marginBottom="-16dp"
+        android:text="这是聊天的内容这是聊天的内容这是聊天的内容这是聊天的内容这是聊天的内容"
+        android:textSize="8sp" />
+
+    <ImageView
+        android:id="@+id/iv_redheart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="29dp"
+        android:layout_marginRight="29dp"
+        android:layout_marginBottom="35dp"
+        android:src="@drawable/ic_redheart" />
+
+    <TextView
+        android:id="@+id/tv_redheart_num"
+        android:layout_width="67dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginBottom="-7dp"
+        android:text="456"
+        android:textSize="16sp" />
+</RelativeLayout>

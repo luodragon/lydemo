@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="10dp">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_hotbuy"
+        android:layout_width="111dp"
+        android:layout_height="86dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/gv_img" />
+
+    <TextView
+        android:id="@+id/tv_hotbuy_name"
+        android:layout_width="83dp"
+        android:layout_height="16dp"
+        android:text="夏季防晒套装"
+        android:textColor="@color/colorRed"
+        android:gravity="left"
+        android:textSize="12sp" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:id="@+id/tv_hotbuy_price"
+        android:layout_width="74dp"
+        android:layout_height="26dp"
+        android:text="￥136"
+        android:textColor="@color/colorRed"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_hotbuy_add_price"
+        android:layout_width="32dp"
+        android:layout_height="26dp"
+        android:gravity="right"
+        android:text="+5k"
+        android:textColor="@color/colorRed"
+        android:textSize="15sp"
+      />
+</LinearLayout>
+</LinearLayout>
+</androidx.cardview.widget.CardView>

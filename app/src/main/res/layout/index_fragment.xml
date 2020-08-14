@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_city_select"
+        android:layout_width="110dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="2.5dp"
+        android:background="@drawable/btn_city_select"
+        android:text="惠州市"
+        android:drawableRight="@drawable/ic_arrow"
+        android:drawablePadding="10dp"
+        android:paddingLeft="10dp"
+        android:gravity="center"
+        android:textColor="@color/colorRed"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.106"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <Button
+        android:id="@+id/btn_sex_select"
+        android:layout_width="110dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="2.5dp"
+        android:background="@drawable/btn_city_select"
+        android:text="性别不限"
+        android:paddingLeft="5dp"
+        android:gravity="center"
+        android:drawableRight="@drawable/ic_arrow"
+        android:drawablePadding="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.634"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <Button
+        android:id="@+id/btn_newman"
+        android:layout_width="73dp"
+        android:layout_height="30dp"
+        android:background="@drawable/btn_city_select"
+        android:text="新人"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.952"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.024" />
+</androidx.constraintlayout.widget.ConstraintLayout>

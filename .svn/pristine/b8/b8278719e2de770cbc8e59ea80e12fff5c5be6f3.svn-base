@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/logo_lieying"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <RelativeLayout
+        android:id="@+id/cv_name"
+        android:layout_width="403dp"
+        android:layout_height="243dp"
+        android:layout_marginTop="52dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_width="95dp"
+            android:layout_height="32dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="148dp"
+            android:layout_marginRight="148dp"
+            android:gravity="center"
+            android:text="名字"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_fans"
+            android:layout_width="63dp"
+            android:layout_height="32dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="102dp"
+            android:layout_marginEnd="66dp"
+            android:layout_marginRight="66dp"
+            android:layout_toStartOf="@+id/tv_username"
+            android:layout_toLeftOf="@+id/tv_username"
+            android:gravity="center"
+            android:text="粉丝"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_usertype_level"
+            android:layout_width="63dp"
+            android:layout_height="32dp"
+            android:layout_below="@+id/tv_fans"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:gravity="center"
+            android:text="用户等级" />
+
+        <TextView
+            android:id="@+id/tv_upgrade"
+            android:layout_width="50dp"
+            android:layout_height="24dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="109dp"
+            android:layout_toRightOf="@+id/tv_usertype_level"
+            android:background="@drawable/tv_upgrade"
+            android:gravity="center"
+            android:text="升级"
+            android:textColor="@color/colorRed" />
+
+        <View
+            android:id="@+id/view_divider"
+            android:layout_width="1dp"
+            android:layout_height="28dp"
+            android:layout_centerInParent="true"
+            android:background="@color/colorGray" />
+
+        <TextView
+            android:id="@+id/tv_star"
+            android:layout_width="63dp"
+            android:layout_height="32dp"
+            android:layout_toRightOf="@+id/view_divider"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="102dp"
+            android:text="金星"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:id="@+id/tv_star_level"
+            android:layout_width="80dp"
+            android:layout_height="32dp"
+            android:layout_below="@+id/tv_star"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:gravity="center"
+            android:text="幸运星等级"
+            android:layout_toRightOf="@+id/view_divider"/>
+
+        <TextView
+            android:id="@+id/tv_upgrade1"
+            android:layout_width="50dp"
+            android:layout_height="24dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="114dp"
+            android:layout_marginTop="109dp"
+            android:layout_toRightOf="@+id/view_divider"
+            android:background="@drawable/tv_upgrade"
+            android:gravity="center"
+            android:text="升级"
+            android:textColor="@color/colorRed" />
+
+        <View
+            android:layout_height="1dp"
+            android:layout_width="280dp"
+            android:background="@color/colorGray"
+            android:layout_below="@+id/view_divider"
+            android:layout_marginTop="50dp"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+<TextView
+    android:id="@+id/tv_label_level_desc"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="等级说明"
+    android:layout_marginLeft="100dp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/cv_name"
+    />
+    <TextView
+        android:id="@+id/tv_label_starbag_desc"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="幸运包说明"
+        android:layout_marginLeft="80dp"
+        app:layout_constraintStart_toEndOf="@id/tv_label_level_desc"
+        app:layout_constraintTop_toBottomOf="@+id/cv_name"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

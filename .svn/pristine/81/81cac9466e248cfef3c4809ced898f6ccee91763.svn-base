@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lieying.lydemo3"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\LyDemo3\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\LyDemo3\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\LyDemo3\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\LyDemo3\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\LyDemo3\app\src\main\AndroidManifest.xml:6:5-79
+12-->E:\LyDemo3\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->E:\LyDemo3\app\src\main\AndroidManifest.xml:7:5-76
+13-->E:\LyDemo3\app\src\main\AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->E:\LyDemo3\app\src\main\AndroidManifest.xml:8:5-75
+14-->E:\LyDemo3\app\src\main\AndroidManifest.xml:8:22-72
+15    <uses-permission android:name="android.permission.CALL_PHONE" />
+15-->E:\LyDemo3\app\src\main\AndroidManifest.xml:9:5-69
+15-->E:\LyDemo3\app\src\main\AndroidManifest.xml:9:22-66
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->E:\LyDemo3\app\src\main\AndroidManifest.xml:10:5-81
+16-->E:\LyDemo3\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->E:\LyDemo3\app\src\main\AndroidManifest.xml:11:5-80
+17-->E:\LyDemo3\app\src\main\AndroidManifest.xml:11:22-77
+18    <uses-permission android:name="android.permission.READ_LOGS" />
+18-->E:\LyDemo3\app\src\main\AndroidManifest.xml:12:5-68
+18-->E:\LyDemo3\app\src\main\AndroidManifest.xml:12:22-65
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->E:\LyDemo3\app\src\main\AndroidManifest.xml:13:5-71
+19-->E:\LyDemo3\app\src\main\AndroidManifest.xml:13:22-68
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->E:\LyDemo3\app\src\main\AndroidManifest.xml:14:5-65
+20-->E:\LyDemo3\app\src\main\AndroidManifest.xml:14:22-62
+21    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+21-->E:\LyDemo3\app\src\main\AndroidManifest.xml:15:5-84
+21-->E:\LyDemo3\app\src\main\AndroidManifest.xml:15:22-81
+22    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+22-->E:\LyDemo3\app\src\main\AndroidManifest.xml:16:5-76
+22-->E:\LyDemo3\app\src\main\AndroidManifest.xml:16:22-73
+23
+24    <uses-feature android:name="android.hardware.Camera" />
+24-->E:\LyDemo3\app\src\main\AndroidManifest.xml:18:5-60
+24-->E:\LyDemo3\app\src\main\AndroidManifest.xml:18:19-57
+25    <uses-feature android:name="android.hardware.camera.autofocus" />
+25-->E:\LyDemo3\app\src\main\AndroidManifest.xml:19:5-70
+25-->E:\LyDemo3\app\src\main\AndroidManifest.xml:19:19-67
+26
+27    <application
+27-->E:\LyDemo3\app\src\main\AndroidManifest.xml:21:5-58:19
+28        android:name="com.lieying.lydemo3.application.MyApplication"
+28-->E:\LyDemo3\app\src\main\AndroidManifest.xml:22:9-50
+29        android:allowBackup="true"
+29-->E:\LyDemo3\app\src\main\AndroidManifest.xml:23:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/logo_lieying"
+32-->E:\LyDemo3\app\src\main\AndroidManifest.xml:24:9-44
+33        android:label="@string/app_name"
+33-->E:\LyDemo3\app\src\main\AndroidManifest.xml:25:9-41
+34        android:requestLegacyExternalStorage="true"
+34-->E:\LyDemo3\app\src\main\AndroidManifest.xml:26:9-52
+35        android:roundIcon="@mipmap/logo_lieying"
+35-->E:\LyDemo3\app\src\main\AndroidManifest.xml:27:9-49
+36        android:supportsRtl="true"
+36-->E:\LyDemo3\app\src\main\AndroidManifest.xml:28:9-35
+37        android:testOnly="true"
+38        android:theme="@style/AppTheme"
+38-->E:\LyDemo3\app\src\main\AndroidManifest.xml:29:9-40
+39        android:usesCleartextTraffic="true" >
+39-->E:\LyDemo3\app\src\main\AndroidManifest.xml:30:9-44
+40        <activity
+40-->E:\LyDemo3\app\src\main\AndroidManifest.xml:31:9-34:68
+41            android:name="com.lieying.lydemo3.DetailsActivity"
+41-->E:\LyDemo3\app\src\main\AndroidManifest.xml:32:13-44
+42            android:label="@string/title_activity_details"
+42-->E:\LyDemo3\app\src\main\AndroidManifest.xml:33:13-59
+43            android:theme="@style/AppTheme.NoActionBar" />
+43-->E:\LyDemo3\app\src\main\AndroidManifest.xml:34:13-56
+44        <activity
+44-->E:\LyDemo3\app\src\main\AndroidManifest.xml:35:9-38:59
+45            android:name="com.lieying.lydemo3.UserLevelActivity"
+45-->E:\LyDemo3\app\src\main\AndroidManifest.xml:36:13-46
+46            android:label="@string/title_activity_user_level"
+46-->E:\LyDemo3\app\src\main\AndroidManifest.xml:37:13-62
+47            android:theme="@style/AppTheme.NoActionBar" />
+47-->E:\LyDemo3\app\src\main\AndroidManifest.xml:38:13-56
+48        <activity
+48-->E:\LyDemo3\app\src\main\AndroidManifest.xml:39:9-41:68
+49            android:name="com.lieying.lydemo3.PersonalCenterActivity"
+49-->E:\LyDemo3\app\src\main\AndroidManifest.xml:40:13-51
+50            android:theme="@style/AppTheme.NoActionBar" />
+50-->E:\LyDemo3\app\src\main\AndroidManifest.xml:41:13-56
+51        <activity
+51-->E:\LyDemo3\app\src\main\AndroidManifest.xml:42:9-51:20
+52            android:name="com.lieying.lydemo3.WelcomeActivity"
+52-->E:\LyDemo3\app\src\main\AndroidManifest.xml:43:13-44
+53            android:label="@string/title_activity_welcome"
+53-->E:\LyDemo3\app\src\main\AndroidManifest.xml:44:13-59
+54            android:theme="@style/AppTheme.NoActionBar" >
+54-->E:\LyDemo3\app\src\main\AndroidManifest.xml:45:13-56
+55            <intent-filter>
+55-->E:\LyDemo3\app\src\main\AndroidManifest.xml:46:13-50:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->E:\LyDemo3\app\src\main\AndroidManifest.xml:47:17-69
+56-->E:\LyDemo3\app\src\main\AndroidManifest.xml:47:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->E:\LyDemo3\app\src\main\AndroidManifest.xml:49:17-77
+58-->E:\LyDemo3\app\src\main\AndroidManifest.xml:49:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->E:\LyDemo3\app\src\main\AndroidManifest.xml:52:9-54:57
+62            android:name="com.lieying.lydemo3.MainActivity"
+62-->E:\LyDemo3\app\src\main\AndroidManifest.xml:53:13-41
+63            android:label="@string/app_name" />
+63-->E:\LyDemo3\app\src\main\AndroidManifest.xml:54:13-45
+64        <activity android:name="com.lieying.lydemo3.LoginActivity" />
+64-->E:\LyDemo3\app\src\main\AndroidManifest.xml:55:9-51
+64-->E:\LyDemo3\app\src\main\AndroidManifest.xml:55:19-48
+65        <activity android:name="com.lieying.lydemo3.RegisterActivity" />
+65-->E:\LyDemo3\app\src\main\AndroidManifest.xml:56:9-54
+65-->E:\LyDemo3\app\src\main\AndroidManifest.xml:56:19-51
+66        <activity android:name="com.lieying.lydemo3.RegisterSuccessActivity" />
+66-->E:\LyDemo3\app\src\main\AndroidManifest.xml:57:9-61
+66-->E:\LyDemo3\app\src\main\AndroidManifest.xml:57:19-58
+67
+68        <provider
+68-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+69            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+70            android:authorities="com.lieying.lydemo3.lifecycle-process"
+70-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+71            android:exported="false"
+71-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+72            android:multiprocess="true" />
+72-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0dd7ac39faaf6c192fa045218325acf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+73    </application>
+74
+75</manifest>
